@@ -1,5 +1,16 @@
 # KSE-configuration-language
 
-| Inquiry  | Implementation |
-| ------------- | ------------- |
-| Variables from one variable  | (var 1000)  |
+Single variable query
+>`( (var 10) )`
+
+>`( (var -5) )`
+
+>`( (var 2.5) )`
+
+>`( (var -5.2) )`
+
+>`( (var "a") )`
+
+>`( (var "var") )`
+
+
