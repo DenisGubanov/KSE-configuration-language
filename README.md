@@ -31,6 +31,13 @@ To create a slot it is necessary before the slot name there were OPEN CLOSE brac
 	  (student() (name "Игорь") (fam "Петров"))
 	)
 
+## Anonymous requests
+
+<br/>
+
+	(
+	  (students(0) ((name "Первый") (name "Второй") (name "Третий"))
+	)
 
 
 ## Cloning slots
