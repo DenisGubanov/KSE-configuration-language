@@ -50,3 +50,14 @@ You cannot create a non-native clone, otherwise Null slots will be cloned to whe
 	  (Igor()) student
 	)
 
+## Merge-Function
+
+The merge function is a tool to merge two or more slots into one combo slot.
+<br/>
+
+	(
+	  (2)merge1 (1(1) 2(1))
+	  (student1() (var1 10) (notvar 20))
+	  (student2() (var2 20))
+	  (score()) merge1(student1() student2())
+	)
