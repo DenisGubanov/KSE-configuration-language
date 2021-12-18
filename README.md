@@ -71,6 +71,7 @@ The merge function is a tool to merge two or more slots into one combo slot.
 
 ## Special types
 
+Special types are a great solution for storing a specific type of data. The way types are declared is pre-query.
 <br/> 
 
 	id(int(0 3) "." int(0 3) "." int(0 3) "." int(0 3)) 
