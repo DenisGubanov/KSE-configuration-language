@@ -71,9 +71,10 @@ The merge function is a tool to merge two or more slots into one combo slot.
 
 ## Special types
 
-<br/>
+<br/> 
+
 	id(int(0 3) "." int(0 3) "." int(0 3) "." int(0 3)) 
 	(
-	  id1 190.222.123.30
-	  id2 183.120.233.48
+	  (id1 190.222.123.30)
+	  (id2 183.120.233.48)
 	)
