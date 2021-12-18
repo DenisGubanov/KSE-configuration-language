@@ -68,3 +68,12 @@ The merge function is a tool to merge two or more slots into one combo slot.
 	  (student2() (var2 20))
 	  (score()) merge1(student1() student2())
 	)
+
+## Special types
+
+<br/>
+	id(int(0 3) "." int(0 3) "." int(0 3) "." int(0 3)) 
+	(
+	  id1 190.222.123.30
+	  id2 183.120.233.48
+	)
